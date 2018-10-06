@@ -6,7 +6,7 @@ Welcome to Pathfinding Visualizer! I built this application because I was fascin
 
 This application supports the following algorithms: 
 
-**A* **: arguably the best pathfinding algorithm; uses heuristics to guarantee the shortest path much faster than other Algorithms
+**A Star**: arguably the best pathfinding algorithm; uses heuristics to guarantee the shortest path much faster than other Algorithms
 
 **Breath-first Search**: a great algorithm; guarantees the shortest path
 
