@@ -11,3 +11,6 @@ This application supports the following algorithms:
 **Breath-first Search**: a great algorithm; guarantees the shortest path
 
 **Depth-first Search**: an inefficient algorithm for pathfinding; does not guarantee the shortest path
+
+![screenshot from 2018-10-06 10-56-50](https://user-images.githubusercontent.com/38970716/46572588-a193f980-c956-11e8-8842-580ba878b53a.png)
+
