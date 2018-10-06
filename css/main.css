@@ -1,0 +1,72 @@
+body {
+  background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/hf458qN/moving-bokeh-lights-abstract-animation-for-background-horizontal-crossing-of-light-discs-from-right-to-left-white-blue-and-pink-colors-60fps-animation-slowing-down-and-stopping_sw9ui61i__F0000.png")
+}
+
+.title {
+  font-size: 52px;
+  font-weight: bold;
+  font-family: monospace;
+  color: darkred;
+  margin-bottom: 20px;
+}
+
+.main-wrapper {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.mazes {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.btn {
+  width: 250px;
+  height: 40px;
+  font-size: 26px;
+  font-weight: bold;
+  background-color: lightblue;
+}
+
+.solvers {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.links {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo {
+  margin: 10px;
+  margin-top: 30px;
+}
+
+.fab {
+  font-size: 40px;
+}
+
+.fa-github {
+  color: black;
+}
+
+.fa-linkedin {
+  color: blue;
+}
+
+.fa-angellist {
+  color: black;
+}
+
+h3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+}

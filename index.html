@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>MAZE VISUALIZATION</title>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+    <link rel="stylesheet" href="./css/reset.css">
+    <link rel="stylesheet" href="./css/main.css">
+    <script src="bundle.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  </head>
+  <body>
+    <section class="main-wrapper">
+      <div class="title">Maze Visualization</div>
+      <section class="maze-canvas">
+        <div class="mazes">
+          <button class="btn" id="dfs">Depth-First</button>
+          <button class="btn" id="bfs">Breadth-First</button>
+          <button class="btn" id="fast">Fast-Maze</button>
+        </div>
+        <canvas id="canvasEl"></canvas>
+      </section>
+    </section>
+    <section class="solvers">
+      <div class="solvers-btn">
+        <button class="btn" id="dfs-solver" type="button" name="button">Depth First</button>
+        <button class="btn" id="bfs-solver" type="button" name="button">Breath First</button>
+        <button class="btn" id="astar-solver" type="button" name="button">A*</button>
+      </div>
+    </section>
+    <section class="footer">
+      <div class="links">
+        <a class="logo" href="https://github.com/Caida001" target="_blank"><i class="fab fa-github"></i></a>
+        <a class="logo" href="https://www.linkedin.com/in/caida-ding/" target="_blank"><i class="fab fa-linkedin"></i></a>
+        <a class='logo' href="https://angel.co/caida-ding" target="_blank"><i class="fab fa-angellist"></i></a>
+      </div>
+      <h3>Caida Ding</h3>
+      <h3>go to my github to see more projects</h3>
+  </body>
+</html>
