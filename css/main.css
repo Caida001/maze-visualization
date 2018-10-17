@@ -49,8 +49,13 @@ body {
 }
 
 .fab {
-  font-size: 40px;
+  font-size: 30px;
 }
+
+.fas {
+  font-size: 30px;
+}
+
 
 .fa-github {
   color: black;
@@ -61,6 +66,10 @@ body {
 }
 
 .fa-angellist {
+  color: black;
+}
+
+.fa-home {
   color: black;
 }
 
